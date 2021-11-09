@@ -13,7 +13,9 @@ A Hackathon is an event where people(mostly hackers) gather together to intensiv
 
 
 ### The Goal of a Hackathon
-With the flexibility of hackathons, the goal of a specific hackathon can be quite diversified. The most commonly recognized  objective are **to build** and **to communicate**.
 
-- **⚙️To Build** - Some hacks are intended to discuss or resolve specific problems, like cyber security contests, Web 3.0 applications, repo bug fixing and so on, where we see a lot of brilliant ideas and prototypes being developed yet later grow into valuable companies and/or products. 
-- **📢To communicate** - Hackathons can also serve as a means of gathering talents and communicating. For innovative and passionate participants with solid technical skills, hackathons will provide them great opportunities to demonstrate their capabilities and projects, exchange ideas, make friends and find partners.
+With the flexibility of hackathons, the goal of a specific hackathon can be quite diversified. However, since the first wave of hackathons in 2010, it has undoubtedly proven its capability of boosting innovation and cooperation. 
+
+- **⚙️To Build** - We see a lot of brilliant ideas and prototypes being developed yet later grow into valuable products, companies and/or technologies in areas like cyber security contests, Web 3.0 applications and so on. 
+
+- **📢To communicate** - For innovative and passionate participants with solid technical skills, hackathons will provide them great opportunities to demonstrate their capabilities and projects, exchange ideas, make friends and find partners.
