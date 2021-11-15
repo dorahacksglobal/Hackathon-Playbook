@@ -29,13 +29,14 @@ However, big companies dominated hackathons and the hacker movement in recent ye
 
 ## Products
 
-- Hackathon Open Book - Github Repo
+- Hackathon Open Book - a Github Repo
 - Gov Forum + snapshot voting - HackerLink BUIDL
 - Community Discussion - Discord
 - Hackathon List - HackerLink Hackathon
 
 <br>
----
+
+----
 <br>
 
 ## **Governance Overview**
@@ -79,7 +80,7 @@ A Hackathon proposal needs to be submitted as a BUIDL on HackerLink with all inf
 
 For each season, we will hold a grant for each focus area with an independent funding pool each. The token holders can vote for their preferred hackathon using quadratic voting. All the hackathon proposal will be ranked descending according to the vote and hackathon proposals will be supported according to the rank until no enough funding is available.
 
-In short term, the voting will be happening offline within all voting token holders.
+>In short term, the voting will be happening offline within all voting token holders.
 
 ### 1.3. Hackathon Grant Issue
 
@@ -108,7 +109,7 @@ Besides, we will hold an open vote using quadratic voting for all the projects f
 
 ### 2.1. Roles, Responsibilities and Rights
 
-The Hackathon DAO community will be a community of **active hackathon sponsors and organizers**. What we want to point out in particular is the hackathon organizers we are looking for are great hackers who have great technical vision, solid skills and enthusiasm to organize events and push technological advances. 
+The Hackathon DAO community will be **a community of active hackathon sponsors and organizers**. What we want to point out in particular is the hackathon organizers we are looking for are great hackers who have great technical vision, solid skills and enthusiasm to boost communicatin and push technological advances. 
 
 - **DAO Funder (token holder)**
     - Source: Donors / DoraHacks assigned / Hackathon DAO token holders
@@ -121,7 +122,7 @@ The Hackathon DAO community will be a community of **active hackathon sponsors a
         - All Discord channels are open for them except for the funders' channel.
         - Submit Hackathon proposals.
         - Actively update the proposals with the latest progress.
-        - Share their experience and knowledge on hackathon through Hackathon Openbook.
+        - Share their experience and knowledge about hackathon through Hackathon Openbook.
 - **DAO Steward**
     - Source: Volunteers after interview / DoraHacks assigned
     - Responsibilities & Rights:
@@ -168,20 +169,21 @@ In Hackathon DAO community we want to use "DAO credit" to reflect a memeber's cr
     - Quantum Computing
     - ...
 - Show Room
-    - hackathon projects demo show
+    - hackathon projects demo show and hackathon roadshow
     - organizers' meetup live
-    - hackathon roadshow
+    - workshop, meetup and shareing talk
 - [private for funders] DAO token holders
 - [private for organizers] Hackathon Open Book
 
 **Community Rules**
 
 - All members must pass KYC before joining.
-- A hackathon organizer can join as an organizer after submitting Hackathon DAO grant application or .
+- A hackathon organizer can join as an organizer after submitting Hackathon DAO grant application or get validated by DAO admin with previous hackathon organizing experiences.
 - A DAO funder can join as an DAO funder by providing prove of holding Hackathon DAO token.
 - If a member gets reported by more than 3 other members in the community, this member will be removed from discord and added into Hackathon DAO blacklist.
 
 <br>
+
 ---
 <br>
 
