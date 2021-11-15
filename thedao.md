@@ -88,25 +88,31 @@ All the grant will be issued after the hackathon and before the end of the grant
 
 - **Organizer on Hackathon DAO whitelist** - all fund issue directly
 - **Organizer on Hackathon DAO blacklist** - no fund will be issued
-- **Organizer neither on whitelist or blacklist** - fund that used for hackathon bonus will be issued after the organizer updating their BUIDL page with the latest updates and getting at least one DAO steward's review. Other logistic cost will be released using reimbursement mode.
+- **Organizer neither on whitelist or blacklist** - fund that used for hackathon bonus will be issued after the organizer updating their BUIDL page with the latest updates and getting at least one DAO staff's review. Other logistic cost will be released using reimbursement mode.
 
-### 1.4. Hackathon Review
+### 1.4. Hackathon DAO Seasonal Faire - Public Vote
 
-By the end of each season, we will ask all the hackathon organizers to update their origin BUIDL page with the latest progress. After that, the DAO workers and hackers of the season will evaluate all the DAO supported hackathons together.
+We will hold an public vote using quadratic voting with XXX USDT grant from Hackathon DAO for all the projects submitted from this season’s hackathons, where everyone (in or outside the Hackathon DAO) can vote and show their supports.
 
-- **DAO workers** (DAO admin and stewards) - each DAO worker will get N votes where N equals to the amount of this seasons' supported hackathons.
-- **Hackers** (all hackathon participants) - each hacker will get vote(s) according to the number of hackathon he/she participated in the season. One hackathon, one vote.
+- The bonus received will directly go to the hackers themselves.
+- The votes obtained of one hacker/team will be converted into Hackathon DAO credits (HCs) one-to-one.
 
-The votes will be calculated into **workers' votes** and **hackers' votes**. The final results will have the following impacts:  
+### 1.5. Hackathon Review
 
-- The votes obtained of one organizer will be converted into Hackathon DAO credits one-to-one. 
-- The organizer that gets the highest workers' votes or developers' votes will be added into the Hackathon DAO whitelist for the next season and removed from blacklist if exists. If there's a tie for the first place, all the winning organizers will be added to the whitelist.
+By the end of each season, we will have all the supported hackathons evaluated according to their hacking experience, outcome quality and owner's organizing skills.
 
-Besides, we will hold an open vote using quadratic voting with XXX USDT bonus pool granted from Hackathon DAO for all the projects from this season’s hackathons, where everyone (in or outside the Hackathon DAO) can vote and show their preference.
+All the hackathon organizers will be asked to update their origin application BUIDL page with the latest progress, so that the DAO workers and all the participated hackers of the season can vote according to their preference with more context.
 
-- The bonus received will directly go to the hackers themselves. 
-- The votes obtained of one hacker/team will be converted into Hackathon DAO credits one-to-one. 
+- **workers votes** (DAO admin and staffs) - each DAO worker will get N votes where N equals to the amount of this seasons' supported hackathons.
+- **Hackers votes** (all hackathon participants) - each hacker will get vote(s) according to the number of hackathon he/she participated in the season. One hackathon, one vote.
 
+The final results will be the sum of **workers‘ votes**, **hackers votes** and **public votes** and will have the following impacts: 
+
+- The votes obtained of one organizer will be converted into Hackathon DAO credits (HCs) one-to-one.
+- The organizer that gets both the highest workers' votes, hackers' votes or public votes will be added into the Hackathon DAO whitelist for the next season and removed from blacklist if exists. If there's a tie for first place, all the winning organizers will be added to the whitelist.
+- The organizer that violates the community rules and gets reported by more than two DAO worker or hackers will be added into Hackathon DAO blacklist for the next season and removed from whitelist if exists.
+
+> public votes = the total votes gained of all the submitted projects in the seasonal DAO public vote 
 
 ### **2. Community Governance**
 
@@ -126,7 +132,7 @@ The Hackathon DAO community will be **a community of active hackathon sponsors a
         - Submit Hackathon proposals.
         - Actively update the proposals with the latest progress.
         - Share their experience and knowledge about hackathon through Hackathon Openbook.
-- **DAO Steward**
+- **DAO Staff**
     - Source: Volunteers after interview / DoraHacks assigned
     - Responsibilities & Rights:
         - All Discord channels are open for them.
@@ -142,23 +148,38 @@ The Hackathon DAO community will be **a community of active hackathon sponsors a
 
 ### 2.2 Reputation System - Hackathon DAO Credit
 
-In Hackathon DAO community we want to use "DAO credit" to reflect a memeber's credibility, community contribution and technical ablity. 
+In Hackathon DAO community we want to use "Hacking Credits"(HCs) to reflect a memeber's credibility, community contribution and technical ablity. 
 
 **Who Can Gain the Credits** 
 - Anyone in the Hackathon DAO community.
 - The default credits for all members will be zero.
 
 **How to Gain the Credits** 
-- Submit hackathon proposal to Hackathon DAO, get granted and get votes in the seasonal final review. The votes obtained of one organizer will be converted into Hackathon DAO credits one-to-one.
-- Submit projects in Hakcathon DAO supported hackathon(s) and get votes in the seasonal project faire. The votes obtained of one hacker/team will be converted into Hackathon DAO credits one-to-one.
-- Hold technical events like meetups, talks and workshops can get 1-5 creidt(s) depending on the quality and performance of the event. The amount issued will be decided by the DAO Steward depending on the audiences' feedback.  
+- Submit hackathon proposal to Hackathon DAO, get granted and get votes in the seasonal final review. The votes obtained of one organizer will be converted into Hackathon DAO HC one-to-one.
+- Submit projects in Hakcathon DAO supported hackathon(s) and get votes in the seasonal project faire. The votes obtained of one hacker/team will be converted into Hackathon DAO HC one-to-one.
+- Hold technical events like meetups, talks and workshops can get 1-5 HC(s) depending on the quality and performance of the event. The amount issued will be decided by the DAO staffs depending on the audiences' feedback.  
 
 **How to Use the Credits** 
-- The community can use the organizer' DAO credits as a reference when evaluate hackathon proposals in future seasons.
-- The creidts can be exchanged into DAO tokens under a one-to-X ratio, so that those trustworthy and active members with solid technical skills can join the core decision making progress of grants.
+- The community can use the organizer' HCs as a reference when evaluate hackathon proposals in future seasons.
+- The HCs can be exchanged into DAO voting tokens under a one-to-X ratio for the whitelisted members, so that those trustworthy and active members with solid technical skills can join the core decision making progress of grants.
 
+### 2.3. Community Rules
 
-### 2.3. Discord
+**Gating rules**
+- All members must pass KYC before joining.
+- One can join as an organizer after submitting Hackathon DAO grant application or get validated by at least one DAO admin or staff with previous hackathon organizing experiences.
+- One can join as an DAO funder by providing prove of holding Hackathon DAO token and this channel will be actively maintained by staffs according to the latest token holders.
+- If a member gets reported by more than 3 other members in the community, this member will be added into Hackathon DAO blacklist and removed from our Discord server.
+
+**Generic rules**
+- Respect each other - hate speech, racism, homophobia, bullying or toxic behavior are not tolerated.
+- No controversial topics - this includes, but is not limited to politics, religion, or other heavy subjects.
+- No spam - this includes, but is not limited to posting unapproved advertising, excessive pings, emote or image spam, abusing spoiler tags, malicious links, etc.
+- No fraud - this includes, but is not limited malicious cash out, collision, plagiarism or account stealing.
+- Keep discussions relevant to the channel topic. Each channel's description tells you the topic.
+- Interfering with staff’s duties by arguing, misinforming them or giving false evidence is forbidden.
+
+### 2.4. Discord
 
 **Channel Structure**
 - **Information**
@@ -180,23 +201,6 @@ In Hackathon DAO community we want to use "DAO credit" to reflect a memeber's cr
 - [private for funders] **DAO token holders**
 - [private for organizers] **Hackathon Open Book**
 
-**Community Rules**
-
-- **General rules**
-    - All members must pass KYC before joining.
-    - One can join as an organizer after submitting Hackathon DAO grant application or get validated by at least one DAO admin or steward with previous hackathon organizing experiences.
-    - One can join as an DAO funder by providing prove of holding Hackathon DAO token and this channel will be actively maintained by stewards according to the latest token holders.
-    - If a member gets reported by more than 3 other members in the community, this member will be added into Hackathon DAO blacklist and removed from our Discord server.
-- **Discord rules**
-    - Respect [https://discordapp.com/terms](https://discordapp.com/terms) and [https://discordapp.com/guidelines](https://discordapp.com/guidelines)
-    - Respect each other - hate speech, racism, homophobia, bullying or toxic behavior are not tolerated here.
-    - Respect staff members and listen to their instructions.
-    - No controversial topics - this includes, but is not limited to politics, religion, or other heavy subjects.
-    - No spam - this includes, but is not limited to posting unapproved advertising, excessive pings, emote or image spam, abusing spoiler tags, malicious links, etc.
-    - Use English to the best of your ability. Be polite if someone speaks English imperfectly.
-    - Keep discussions relevant to the channel topic. Each channel's description tells you the topic.
-    - Interfering with staff’s duties by arguing, misinforming them or giving false evidence is forbidden.
-
 <br>
 
 ---
@@ -206,9 +210,9 @@ In Hackathon DAO community we want to use "DAO credit" to reflect a memeber's cr
 
 ### **1. Notes**
 
-1. Hackathon DAO funds will be used ONLY to support hackathons and will not be used for product developing, community operation or steward salary. 
+1. Hackathon DAO funds will be used ONLY to support hackathons and will not be used for product developing, community operation or staff salary. 
 2. All the cost other than hackathons grants will be supported by DoraHacks.
-3. The governance of DAO does not involve the election of any DAO members. Steward is directly delegated and managed by DoraHacks, but it needs to be managed in accordance with DAO's governance rules.
+3. The governance of DAO does not involve the election of any DAO members. staff is directly delegated and managed by DoraHacks, but it needs to be managed in accordance with DAO's governance rules.
 4. The funding of Hackathon DAO is completed by Hackathon DAO in the multi-signature wallet of Gnosis SAFE, and the multi-signature wallet is fully controlled by the results of community governance.
 5. The current governance rules do not require the use of Snapshot and non-HackerLink voting tools.
 6. Other possible governance rules in the future: For a single Hackathon Grant funding, use Futarchy for community voting. These governance rules are currently not considered.
