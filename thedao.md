@@ -4,8 +4,6 @@ title: Hackathon DAO
 permalink: /dao/
 ---
 
-# HackathonDAO
-
 ![hori_a_color_bg.png](/Hackathon-Playbook/img/hori_a_color_bg.png)
 
 ## Vision
@@ -36,9 +34,11 @@ However, big companies dominated hackathons and the hacker movement in recent ye
 - Community Discussion - Discord
 - Hackathon List - HackerLink Hackathon
 
+<br>
 ---
+<br>
 
-# **Governance Overview**
+## **Governance Overview**
 
 地址 TBD
 
@@ -49,17 +49,17 @@ Hackathon DAO's governance mechanism will revolve around 1) **hackathon grant ru
 - the core decision makers in the community are with great tech visions and solid skills.
 - the fund and resources mainly go to hackers that make true contribution.
 
-## 1. Hackathon Grant Rules
+### **1. Hackathon Grant Rules**
 
 Our grant will be happening on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant.  
 
 | Step        | Start Date  | End Date    | What will be happening                                           |
 |-------------|-------------|-------------|------------------------------------------------------------------|
-| Application | Jan 01 2022 | Jan 31 2022 | Hackathon proposal submission / Applicants and community meetups |
-| Voting      | Feb 01 2022 | Feb 07 2022 | Community discussion and voting                                  |
-| Hacking     | Feb 07 2022 | Mar 21 2022 | Hackathon preparation and online                                 |
-| Grant       | Mar 21 2022 | Mar 31 2022 | Grant issue                                                      |
-| Review      | Mar 21 2022 | Mar 27 2022 | Hackathon review                                                 |
+| Application | Jan 01 | Jan 31 | Hackathon proposal submission / Applicants and community meetups |
+| Voting      | Feb 01 | Feb 07 | Community discussion and voting                                  |
+| Hacking     | Feb 07 | Mar 21 | Hackathon preparation and online                                 |
+| Grant       | Mar 21 | Mar 31 | Grant issue and reimbursement                                        |
+| Review      | Mar 21 | Mar 27 | Hackathon review and project faire                                                |
 
 Currently, Hackathon DAO will be focusing on three main areas: Web3, Cryptography(ZK) and Quantum Computing(open-source tool and crypto crossover), and we will gradually get more topics involved if we have more credential members from more technical fields in our community. 
 
@@ -81,12 +81,12 @@ For each season, we will hold a grant for each focus area with an independent fu
 
 In short term, the voting will be happening offline within all voting token holders.
 
-### 1.3. Hackathon Grant
+### 1.3. Hackathon Grant Issue
 
 All the grant will be issued after the hackathon and before the end of the grant season according to calendar date. For different applicants and different uses of funds, we will have different process:
 
 - **Organizer on Hackathon DAO whitelist** - all fund issue directly
-- **Organizer on Hackathon DAO blacklis**t - no fund will be issued
+- **Organizer on Hackathon DAO blacklist** - no fund will be issued
 - **Organizer neither on whitelist or blacklist** - fund that used for hackathon bonus will be issued after the organizer updating their BUIDL page with the latest updates and getting at least one DAO steward's review. Other logistic cost will be released using reimbursement mode.
 
 ### 1.4. Hackathon Review
@@ -96,21 +96,25 @@ By the end of each season, we will ask all the hackathon organizers to update th
 The final results will have the following impacts:  
 
 - The votes obtained of one organizer will be converted into Hackathon DAO credits one-to-one. These credits can help the voters to evaluate in future seasons and can be exchanged into DAO tokens under a one-to-X ratio.
-- The organizer that gets both the highest workers' votes or developers' votes will be added into the Hackathon DAO whitelist for the next season and removed from blacklist if exists. If there's a tie for first place, all the winning organizer will be added to the whitelist.
+- The organizer that gets the highest workers' votes or developers' votes will be added into the Hackathon DAO whitelist for the next season and removed from blacklist if exists. If there's a tie for the first place, all the winning organizers will be added to the whitelist.
 
-Besides, we will hold an open vote for all the projects submitted through this season's hackathons. 
+Besides, we will hold an open vote using quadratic voting for all the projects from this season's hackathons, where anyone (in or outside the Hackathon DAO) can show their preference. 
 
-## 2. Community **Governance**
+- The bonus received will directly go to the hackers themselves. 
+- The votes obtained of one hacker/team will be converted into Hackathon DAO credits one-to-one. These credits can help the voters to evaluate in future seasons and can be exchanged into DAO tokens under a one-to-X ratio.
 
-### 2.1. Roles, Responsibilities and Obligations
+
+### **2. Community Governance**
+
+### 2.1. Roles, Responsibilities and Rights
 
 The Hackathon DAO community will be a community of **active hackathon sponsors and organizers**. What we want to point out in particular is the hackathon organizers we are looking for are great hackers who have great technical vision, solid skills and enthusiasm to organize events and push technological advances. 
 
-- **DAO Funders (token holders)**
+- **DAO Funder (token holder)**
     - Source: Donors / DoraHacks assigned / Hackathon DAO token holders
     - Responsibilities & Rights:
         - All Discord channels are open for them.
-        - Discuss and vote for hackathon proposals each season.
+        - Discuss and vote for hackathon proposals.
 - **Hackathon Organizer**
     - Source: Hackathon DAO grant applications
     - Responsibilities & Rights:
@@ -118,21 +122,36 @@ The Hackathon DAO community will be a community of **active hackathon sponsors a
         - Submit Hackathon proposals.
         - Actively update the proposals with the latest progress.
         - Share their experience and knowledge on hackathon through Hackathon Openbook.
-- **DAO** **Steward**
+- **DAO Steward**
     - Source: Volunteers after interview / DoraHacks assigned
     - Responsibilities & Rights:
         - All Discord channels are open for them.
         - Actively update the announcement Discord channels with the latest Hackathon DAO progress and agenda.
         - Actively maintain the Discord channel of his/her own focus area.
-        - Organize community activities like Hackathon roadshow, project demo show and tech meetups, workshops, etc.
+        - Organize community activities like Hackathon roadshow, project demo show and tech meetups, talks, workshops, etc.
         - Assist hackathon events through hackathon proposal reviewing, hackathon result reviewing, Hackathon DAO product Q&A, reimbursement, etc.
 - **Developer**
     - Source: Applicants after KYC
     - Responsibilities & Rights:
         - Only announcement, topic and show room channels are available for them.
-        - Participate in community activities like Hackathon roadshow, project demo show and tech meetups, etc.
+        - Participate in community activities like Hackathon roadshow, project demo show and tech meetups, workshops, etc.
 
 ### 2.2 Reputation System
+
+In Hackathon DAO community we want to use "DAO credit" to reflect a memeber's credibility, community contribution and technical ablity. 
+
+**Who Can Gain the Credits** 
+- Anyone in the Hackathon DAO community.
+- The default credits for all members will be zero.
+
+**How to Gain the Credits** 
+- Submit hackathon proposal to Hackathon DAO, get granted and get votes in the seasonal final review. The votes obtained of one hacker/team will be converted into Hackathon DAO credits one-to-one.
+- Submit projects in Hakcathon DAO supported hackathon(s) and get votes in the seasonal project faire. The votes obtained of one hacker/team will be converted into Hackathon DAO credits one-to-one.
+- Hold technical events like meetups, talks and workshops can get 1-5 creidt(s) depending on the quality and performance of the event. The amount issued will be decided by the DAO Steward depending on the audiences' feedback.  
+
+**How to Use the Credits** 
+- The community can use the organizer' DAO credits as a reference when evaluate hackathon proposals in future seasons.
+- The creidts can be exchanged into DAO tokens under a one-to-X ratio, so that those trustworthy and active members with solid technical skills can express their opinions.
 
 
 ### 2.3. Discord
@@ -153,19 +172,22 @@ The Hackathon DAO community will be a community of **active hackathon sponsors a
     - organizers' meetup live
     - hackathon roadshow
 - [private for funders] DAO token holders
-- [private for organizers] Hackathon Play Book
+- [private for organizers] Hackathon Open Book
 
 **Community Rules**
 
-- A hackathon organizer can join as an organizer after KYC or after submitting Hackathon DAO grant application.
+- All members must pass KYC before joining.
+- A hackathon organizer can join as an organizer after submitting Hackathon DAO grant application or .
 - A DAO funder can join as an DAO funder by providing prove of holding Hackathon DAO token.
 - If a member gets reported by more than 3 other members in the community, this member will be removed from discord and added into Hackathon DAO blacklist.
 
+<br>
 ---
+<br>
 
-# Additional Notes
+## Additional Notes
 
-## 1. Notes
+### **1. Notes**
 
 1. Hackathon DAO funds will be used ONLY to support hackathons and will not be used for product developing, community operation or steward salary. 
 2. All the cost other than hackathons grants will be supported by DoraHacks.
@@ -174,6 +196,6 @@ The Hackathon DAO community will be a community of **active hackathon sponsors a
 5. The current governance rules do not require the use of Snapshot and non-HackerLink voting tools.
 6. Other possible governance rules in the future: For a single Hackathon Grant funding, use Futarchy for community voting. These governance rules are currently not considered.
 
-## 2. References
+### **2. References**
 
 1. Decentralize The Hacker Movement by @ericzhagn90
