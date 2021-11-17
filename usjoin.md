@@ -18,6 +18,10 @@ If you want learn more about us, please visit / join / follow us on:
 <br> 👉 [Discord][Discord]
 <br> 👉 [Twitter][Twitter] 
 
+<br>
+----
+<br>
+
 ## How to Join
 There is no community without active members who share the common vision. At hackathon DAO, we want to gather a group of enthusiastic hackers with great technical skills and vision to boost the hacker movement to another level, where
 - Hackers themselves can propose and decide what are the real problems to solve.
