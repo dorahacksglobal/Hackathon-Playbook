@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Hackathon DAO
+title: Join Us
 permalink: /joinus/
 ---
 
@@ -14,11 +14,11 @@ To financially and operationally support and liberate global hackers and hackath
 - Organize an online community of top hackers and hackathon organizers to actively discuss the (most) valuable tech problems and innovations.
 
 If you want learn more about us, please visit / join / follow us on:
-👉 [Website][Website] 
-👉 [Discord][Discord]
-👉 [Twitter][Twitter] 
+<br> 👉 [Website][Website] 
+<br> 👉 [Discord][Discord]
+<br> 👉 [Twitter][Twitter] 
 
-## Join Us
+## How to Join
 There is no community without active members who share the common vision. At hackathon DAO, we want to gather a group of enthusiastic hackers with great technical skills and vision to boost the hacker movement to another level, where
 - Hackers themselves can propose and decide what are the real problems to solve.
 - Hackers can connect with and inspire each other.
