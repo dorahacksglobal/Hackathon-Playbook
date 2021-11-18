@@ -72,7 +72,7 @@ You will have the opportunity to:
 - Participate in the formulation of our community rules and our DAO mechanism design.
 - Maintain a discussion channel for a specific hacking area.
 
-Please send an application email starting with the title **[DAO staff application - name - city - focus area]** to momo@dorahack.com with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+Please send an application email starting with the title **[DAO staff application - name - city - focus area]** to **momo@dorahacks.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
 
