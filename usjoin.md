@@ -19,11 +19,13 @@ If you want learn more about us, please visit / join / follow us on:
 <br> 👉 [Twitter][Twitter] 
 
 <br>
+
 ----
+
 <br>
 
 ## How to Join
-There is no community without active members who share the common vision. At hackathon DAO, we want to gather a group of enthusiastic hackers with great technical skills and vision to boost the hacker movement to another level, where
+A community can’t be driven without a shared common vision. At Hackathon DAO, we want to gather a group of enthusiastic hackers with great technical skills and vision to boost the hacker movement to another level, where
 - Hackers themselves can propose and decide what are the real problems to solve.
 - Hackers can connect with and inspire each other.
 - Valuable contributions will be supported financially and operationally.
@@ -33,7 +35,7 @@ Please do join us if you share the same belief with us!!!
 <br>
 
 ### **➔Join as a Hackathon Organizer**
-Hackathon organizers would be the core of our community. Except for organizers already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and hackathon DAO would be a great way to boost and promote your repos.
+Hackathon organizers would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
 
 You will have the opportunity to:
 - Get both financially and operationally support for your hackathons through our seasonal grant program.
@@ -61,22 +63,18 @@ Join our [Discord][Discord]. Go to the **#select-your-role** channel, select **d
 <br>
 
 ### **➔Join as a Staff**
-This is one of the most important roles for us at this stage and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. 
+This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. 
 
 You will have the opportunity to:
-- Assist our grant process through hackathon proposal reviewing, hackathon result reviewing, DAO product Q&A, etc.
+- Assist our grant process through hackathon proposal review, hackathon result review, DAO product design, etc.
 - Organize activities like project demo shows and tech meetups, talks, workshops on edge-cutting and exciting tech topics.
 - Manage and shape our community (on Discord).
 - Participate in the formulation of our community rules and our DAO mechanism design.
-- Maintaining a discussion board for a specific hacking area.
+- Maintain a discussion channel for a specific hacking area.
 
 Please send an application email starting with the title **[DAO staff application - name - city - focus area]** to momo@dorahack.com with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
-
-### **➔Join as a Funder**
-We do not accept public monetary donations at the time. 
-Please stay tuned!!!
 
 
 [Website]: https://dorahacksglobal.github.io/Hackathon-Playbook/dao/

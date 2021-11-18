@@ -70,7 +70,7 @@ A Hackathon proposal needs to be submitted as a BUIDL on HackerLink with all inf
 
 - The organizer or the organizing team is a maintainer of an active Github repo.
 - The organizer or one of the organizing team members has passed Hackathon DAO KYC.
-- None of the organizing team is not on the blacklist of Hackathon DAO.
+- None of the organizing team is on the blacklist of Hackathon DAO.
 - The hackathon must have a clear and specific problem to solve instead of aimlessly exploring.
 - The hackathon must have a budget plan if the grant will be used for anything other than bonus.
 - The hackathon needs to be organized ONLY through HackerLink platform using its bounty or hackathon feature.
