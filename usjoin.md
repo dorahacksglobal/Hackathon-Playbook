@@ -79,4 +79,4 @@ Please send an application email starting with the title **[DAO staff applicatio
 
 [Website]: https://dorahacksglobal.github.io/Hackathon-Playbook/dao/
 [Discord]: https://discord.gg/gVBYGfmwQv
-[Twitter]: https://discord.gg/gVBYGfmwQv
+[Twitter]: https://twitter.com/hackathonDAO
