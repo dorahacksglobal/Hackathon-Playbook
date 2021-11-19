@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Event Planning and Organizing"
-date:   2021-10-29 11:22:44 +0800
+date:   2021-11-01 11:22:44 +0800
 categories: jekyll update
 ---
 > Owner: @Penny.Wang @Momo.Hou

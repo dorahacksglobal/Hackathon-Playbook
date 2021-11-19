@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackers City Guide"
-date:   2021-10-29 11:22:44 +0800
+date:   2021-10-28 11:22:44 +0800
 categories: playground
 ---
 
@@ -13,14 +13,43 @@ Here, we want to provide a city guide **customized for hackers** and we are invi
 
 TBD
 
+<br>
+
 ----
+
+<br>
 
 ## Shenzhen
 
 TBD
 
+<br>
+
 ----
+
+<br>
 
 ## Denver
 
 TBD
+
+<br>
+
+----
+
+<br>
+
+## San Fransisco
+
+TBD
+
+<br>
+
+----
+
+<br>
+
+## Berlin
+
+TBD
+
