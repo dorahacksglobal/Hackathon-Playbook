@@ -14,9 +14,9 @@ To financially and operationally support and liberate global hackers and hackath
 - Organize an online community of top hackers and hackathon organizers to actively discuss the (most) valuable tech problems and innovations.
 
 If you want learn more about us, please visit / join / follow us on:
-<br> 👉 [Website][Website] 
-<br> 👉 [Discord][Discord]
-<br> 👉 [Twitter][Twitter] 
+<br> 🔗 [Website][Website] 
+<br> 🔗 [Discord][Discord]
+<br> 🔗 [Twitter][Twitter] 
 
 <br>
 
@@ -44,7 +44,9 @@ You will have the opportunity to:
 - Discuss, design and develop tools for better hackathon experience.
 - Share your experiences and knowledge about hackathons and become the co-author of our openbook if you want to.
 
-Join our [Discord][Discord]. Go to the **#select-your-role** channel, select **hackathon organizer** and our staff will follow up with you on more details. 
+Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, select **hackathon organizer** and our staff will follow up with you on more details. 
+
+> Our next grant will be opening soon. Join our [Discord][Discord] or follow our [Twitter][Twitter] to get the latest updates!!!
 
 <br>
 
@@ -58,7 +60,7 @@ You will have the opportunity to:
 - Propose and discuss the most valuable tech problem and innovations. 
 - Participate in our activities like project demo shows and tech meetups, talks, workshops on edge-cutting and exciting tech topics.
 
-Join our [Discord][Discord]. Go to the **#select-your-role** channel, select **developer** and our staff will follow up with you on more details.
+Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, select **developer** and our staff will follow up with you on more details.
 
 <br>
 
@@ -72,7 +74,7 @@ You will have the opportunity to:
 - Participate in the formulation of our community rules and our DAO mechanism design.
 - Maintain a discussion channel for a specific hacking area.
 
-Please send an application email starting with the title **[DAO staff application - name - city - focus area]** to **momo@dorahacks.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+Please send an application 📧 email with a title like **[DAO staff application - name - city - focus area]** to **momo@dorahacks.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
 
