@@ -29,9 +29,9 @@ However, big companies dominated hackathons and the hacker movement in recent ye
 
 ## Products
 
-- Hackathon Open Book - a Github Repo
-- Gov Forum + snapshot voting - HackerLink BUIDL
-- Community Discussion - Discord
+- Hackathon Playbook - a Github Repo
+- Gov Forum + Snapshot Voting - HackerLink BUIDL
+- Community Discussion - a Discord Server
 - Hackathon List - HackerLink Hackathon
 
 <br>

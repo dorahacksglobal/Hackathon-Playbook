@@ -10,7 +10,7 @@ Hackathon DAO is a decentralized community to support global hackathons on meani
 
 To financially and operationally support and liberate global hackers and hackathon organizers (especially open-source repo maintainers) and focus on truly valuable technical problems and improvements, we 
 - Hold seasonal grants to fund meaningful hackathons. 
-- Maintain a hackathon openbook to share (almost) everything about hackathons.
+- Maintain a hackathon playbook to share (almost) everything about hackathons.
 - Organize an online community of top hackers and hackathon organizers to actively discuss the (most) valuable tech problems and innovations.
 
 If you want learn more about us, please visit / join / follow us on:
