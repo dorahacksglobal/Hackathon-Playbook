@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hackathon Openbook
+title: Hackathon Playbook
 email: momo@dorahacks.com
 description: (Almost) everything you want to know and discuss about hackathons
 twitter_username: hackathonDAO
