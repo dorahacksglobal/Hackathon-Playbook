@@ -4,7 +4,7 @@ title: Join Us
 permalink: /joinus/
 ---
 
-![hori_a_color_bg.png](/Hackathon-Playbook/img/hori_a_color_bg.png)
+![hori_a_color_bg.png](/Hackathon-Playbook/img/logo.png)
 
 Hackathon DAO is a decentralized community to support global hackathons on meaningful technical problems and innovations. 
 
