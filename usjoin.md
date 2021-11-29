@@ -4,7 +4,7 @@ title: Join Us
 permalink: /joinus/
 ---
 
-![hori_a_color_bg.png](/Hackathon-Playbook/img/hori_a_color_bg.png)
+![hori_a_color_bg.png](/Hackathon-Playbook/img/logo.png)
 
 Hackathon DAO is a decentralized community to support global hackathons on meaningful technical problems and innovations. 
 
@@ -99,7 +99,7 @@ You will have the opportunity to:
 - Participate in the formulation of our community rules and our DAO mechanism design.
 - Maintain a discussion channel for a specific hacking area.
 
-Please send an application 📧 email with a title like **[DAO staff application - name - city - focus area]** to **momo@dorahacks.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+Please send an application 📧 email with a title like **[DAO staff application - name - city - focus area]** to **momo.houxy@gmail.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
 
