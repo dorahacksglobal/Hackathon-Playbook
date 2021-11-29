@@ -23,7 +23,7 @@ If you want learn more about us, please visit / join / follow us on:
 
 <br>
 
-## How to Join
+## **How to Join**
 Hackathon has undoubtedly proven its capability of boosting innovation and cooperation. Through funding Hackathons, we want to gather a group of enthusiastic hackers with great technical skills and vision and further boost the open-source community and innovations, where
 - Hackers themselves can propose and decide what are the real problems to solve.
 - Hackers can connect with and inspire each other.
@@ -58,7 +58,7 @@ More details, please visit our [Website][Website].
 
 <br>
 
-## Roles to Join
+## **Roles to Join**
 
 ### **➔Join as a Hackathon Organizer**
 Hackathon organizers would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
