@@ -4,7 +4,7 @@ title: Join Us
 permalink: /joinus/
 ---
 
-![hori_a_color_bg.png](/Hackathon-Playbook/img/logo.png)
+![hori_a_color_bg.png](/Hackathon-Playbook/img/logo_grey.png)
 
 Hackathon DAO is a decentralized community to support global hackathons on meaningful technical problems and innovations. 
 
@@ -18,7 +18,6 @@ If you want learn more about us, please visit / join / follow us on:
 <br> 🔗 [Discord][Discord]
 <br> 🔗 [Twitter][Twitter] 
 
-<br>
 
 ----
 
@@ -58,6 +57,12 @@ Each season, Hackathon DAO will hold a grant for each focus area with an indepen
 More details, please visit our [Website][Website].
 
 <br>
+
+----
+
+<br>
+
+## Roles to Join
 
 ### **➔Join as a Hackathon Organizer**
 Hackathon organizers would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
@@ -100,6 +105,11 @@ You will have the opportunity to:
 - Maintain a discussion channel for a specific hacking area.
 
 Please send an application 📧 email with a title like **[DAO staff application - name - city - focus area]** to **momo.houxy@gmail.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+
+<br>
+
+### **➔Join as a Partner**
+Hackathon DAO is not open for funding at the moment. However, if your platform / company / team is looking for something ineteresting in Web 3.0, Cryptography and Quantum Computing. Please do connect with us through our [Discord][Discord] or our [Twitter][Twitter] or send an 📧 email to **momo.houxy@gmail.com**. 
 
 <br>
 
