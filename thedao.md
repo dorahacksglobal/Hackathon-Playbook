@@ -4,7 +4,7 @@ title: Hackathon DAO
 permalink: /dao/
 ---
 
-![hori_a_color_bg.png](/Hackathon-Playbook/img/logo.png)
+![hori_a_color_bg.png](/Hackathon-Playbook/img/logo_pink.png)
 
 ## Vision
 
