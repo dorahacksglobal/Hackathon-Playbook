@@ -32,8 +32,6 @@ Hackathon has undoubtedly proven its capability of boosting innovation and coope
 Please do join us if you share the same belief with us!!!
 A community can’t be driven without a shared common vision.
 
-<br>
-
 ### **➔Apply for Our Seasonal Hackathon Grant**
 
 **First of all, Hackathon DAO’s grant is for Hackathon, and it’s open for everyone to apply.**
