@@ -46,8 +46,8 @@ Each season, Hackathon DAO will hold a grant for each focus area with an indepen
 - The hackathon must have a budget plan if the grant will be used for anything other than bonus.
 - The hackathon must happen during the indicated “Hacking” time window according to the posted agenda at the beginning of each season.
 - The organizer has passed Hackathon DAO KYC and is not on the blacklist of Hackathon DAO.
-- The hackathon needs to be organized ONLY through HackerLink platform using its bounty or hackathon feature.
-- The Hackathon proposal needs to be submitted as a BUIDL on HackerLink with all information properly filled in.
+- The hackathon needs to be organized ONLY through [HackerLink][HackerLink] platform using its bounty or hackathon feature.
+- The Hackathon proposal needs to be submitted as a BUIDL on [HackerLink][HackerLink] with all information properly filled in.
 - Hackathon DAO is currently focused on Web3, Cryptography and Quantum Computing. But Hackathons in other fields are also welcomed to apply. 
 
 Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. After submitting your proposal, please keep an eye on our Discord and your email to check the final result. Our staff will follow up with you for more details if you get the grant.
@@ -115,3 +115,4 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 [Website]: https://dorahacksglobal.github.io/Hackathon-Playbook/dao/
 [Discord]: https://discord.gg/gVBYGfmwQv
 [Twitter]: https://twitter.com/hackathonDAO
+[HackerLink]: https://hackerlink.io/
