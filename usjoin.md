@@ -34,9 +34,7 @@ Hackathon has undoubtedly proven its capability of boosting innovation and coope
 
 Please do join us if you if you also enjoy the excitement of Hackathon and believe in its capability of boosting creativity and communication.Hackathon DAO will make our best effort to decentralize and amplify that!!! 
 
-<br>
-
-A community can’t be driven without a shared common vision.
+**A community can’t be driven without a shared common vision.**
 
 <br>
 
@@ -46,11 +44,11 @@ A community can’t be driven without a shared common vision.
 
 **First of all, Hackathon DAO’s grant is for Hackathon, and it’s open for everyone to apply.**
 
-Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps would be: 1) application, 2) community voting, 3) hacking, 4) grant release and 5) reviewing. 
+Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps would be: application ➔ community voting ➔ hacking ➔ grant release ➔ reviewing. 
 
-Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit our [Website][Website] and more details can be found at the `Hackathon Grant Rules` section.
+Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. 
 
-Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. After submitting your proposal, please keep an eye on our Discord and your email to check the final result. Our staff will follow up with you for more details if you get the grant.
+If you are interested, please visit our [Website][Website] and more details can be found at the `Hackathon Grant Rules` section. Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
 
 <br>
 
