@@ -229,7 +229,7 @@ In the Hackathon DAO community, we use “Hacking Credits”(HCs) to reflect a m
 
 They will participate in Hackathin DAO by:
 - Supporting our DAO grant Hackathons with its Web 3.0 cloud computing and storage services.
-- Hold ingworkshops and content to have you know Build and Deploy on Decentralized Web in-and-out.
+- Holding workshops and content to have you know Build and Deploy on Decentralized Web in-and-out.
 - Providing long-term diversified services support for Hackathon DAO recommended projects and developers.
 
 
