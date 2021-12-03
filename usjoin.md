@@ -33,8 +33,12 @@ Hackathon has undoubtedly proven its capability of boosting innovation and coope
 - Valuable contributions will be supported financially and operationally.
 
 Please do join us if you if you also enjoy the excitement of Hackathon and believe in its capability of boosting creativity and communication.Hackathon DAO will make our best effort to decentralize and amplify that!!! 
+
 <br>
+
 A community can’t be driven without a shared common vision.
+
+<br>
 
 ### **➔Apply for Our Seasonal Hackathon Grant**
 
@@ -67,20 +71,20 @@ This is one of the most important roles for us and you will have the opportunity
 - **Hackathon Playbook** 
 	- Content Seeker 
 		- seek proper contributors and assist their posting. (50 USD per post)
-		- post self-writen content. (100 USD per post)
-	- Maintainer (Paid by season)
-		- updating global hackathon info
-		- review PRs
-		- promote [Playbook][Playbook] to get more visitors
-		- improve website performance, capability and/or styling
+		- post self-writen content. (50 USD per post)
+	- Key Maintainer (Paid by season)
+		- updating global hackathon info.
+		- review PRs.
+		- improve website performance, capability, structure and/or styling.
+		- promote [Playbook][Playbook] to attact more visitors.
 
 - **Study Room**
 	- Content publish assistant (50 USD per post)
-		- assist our partners to generate educational content and successfully publish it.
-		- the final published content should be added to Hackathon Playbook in a proper format and archive it in [Playbook][Playbook].
+		- assist our partners to generate educational content and successfully publish it in a proper format.
+		- the final published content or content link should be archived in [Playbook][Playbook].
 	- Content writer (100 USD per post)
-		- create educational content and successfully publish it.
-		- the final published content should be added to Hackathon Playbook in a proper format and archive it in [Playbook][Playbook].
+		- create educational content and successfully publish it in a proper format.
+		- the final published content or content link should be archived in [Playbook][Playbook].
 	- Event manager (50 USD per event)
 		- organize events like tech talk, workshop, sharing session and have more than 5 thumb up from community.
 		- generate proper follow up content like video or tech blog.
