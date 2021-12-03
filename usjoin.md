@@ -48,19 +48,9 @@ A community can’t be driven without a shared common vision.
 
 Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps would be: 1) application, 2) community voting, 3) hacking, 4) grant release and 5) reviewing. 
 
-Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. Hackathons meet the following criteria are more than welcome to apply :
-- The organizer is a maintainer of an active Github repo.
-- The hackathon must have a clear and specific problem to solve instead of aimlessly exploring.
-- The hackathon must have a budget plan if the grant will be used for anything other than bonus.
-- The hackathon must happen during the indicated “Hacking” time window according to the posted agenda at the beginning of each season.
-- The organizer has passed Hackathon DAO KYC and is not on the blacklist of Hackathon DAO.
-- The hackathon needs to be organized ONLY through [HackerLink][HackerLink] platform using its bounty or hackathon feature.
-- The Hackathon proposal needs to be submitted as a BUIDL on [HackerLink][HackerLink] with all information properly filled in.
-- Hackathon DAO is currently focused on Web3, Cryptography and Quantum Computing. But Hackathons in other fields are also welcomed to apply. 
+Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit our [Website][Website] and more details can be found at the `Hackathon Grant Rules` section.
 
 Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. After submitting your proposal, please keep an eye on our Discord and your email to check the final result. Our staff will follow up with you for more details if you get the grant.
-
-More details, please visit our [Website][Website].
 
 <br>
 
