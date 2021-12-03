@@ -62,7 +62,7 @@ More details, please visit our [Website][Website].
 
 ### **➔Become Our Staff**
 
-This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. Currently we have three open tracks and we are actively looking for people that would like to join and build our DAO together:) A breif introduction can be reached as below and please join [this telegram group][tele] for more details.
+This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. Currently we have three open tracks and we are actively looking for people that would like to join and build our DAO together:) A breif introduction can be reached as below and please join ✉️[this telegram group][tele]✉️ for more details.
 
 - **Hackathon Playbook** 
 	- Content Seeker 
@@ -140,7 +140,7 @@ You will have the opportunity to:
 - Participate in the formulation of our community rules and our DAO mechanism design.
 - Maintain a discussion channel for a specific hacking area.
 
-Please join [this telegram group][tele] if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+Please join ✉️[this telegram group][tele]✉️ if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
 

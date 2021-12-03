@@ -222,3 +222,18 @@ In the Hackathon DAO community, we use “Hacking Credits”(HCs) to reflect a m
 ### **2. References**
 
 1. Decentralize The Hacker Movement by @ericzhagn90
+
+### **3. Partners**
+
+**➔[4EVERLAND][4EVERLAND]**
+4EVERLAND is a cloud computing platform of Web3.0 with global acceleration, privacy protection, distributed storage, and other technical features, based on IPFS and the underlying technology of Ethereum. 4EVERLAND is committed to providing a distributed, highly efficient, self-motivated, and low-cost data hosting gateway. It hopes to help the internet to make a smooth leap from Web 2.0 to Web 3.0, and become the infrastructure for millions of Web 3.0 developers and applications. 
+<br>
+They will participate in Hackathin DAO by:
+- Supporting our DAO grant Hackathons with its Web 3.0 cloud computing and storage services.
+- Hold ingworkshops and content to have you know Build and Deploy on Decentralized Web in-and-out.
+- Providing long-term diversified services support for Hackathon DAO recommended projects and developers.
+
+
+
+[4EVERLAND]: https://www.4everland.org/
+
