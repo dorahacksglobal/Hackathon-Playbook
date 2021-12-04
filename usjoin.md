@@ -79,7 +79,7 @@ This is one of the most important roles for us and you will have the opportunity
 
 - **Hackathon Grant**
 	- Hackathon organizer seekers (300 USD per hackathon)
-		- successfully find a qualified Hackathon which gets at least one vote in our seasonal grant. 
+		- successfully find a qualified Hackathon which gets >=1 vote(s) in our seasonal grant. 
 	- Hackathon grant assistants (Paid by season)
 		- support seasonal hackathon grant.
 
@@ -141,6 +141,11 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 
 <br>
 
+### **➔Join as a Hackathon Referrer**
+
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! If you have anyone to refer, please join 📮[this telegram group][tele] and ping @momo_hou for more details. You will get 300 USDT as refer bonus if the Hackathon successfully get >=1 vote(s) in our seasonal community grant.   
+
+<br>
 
 [Website]: https://dorahacksglobal.github.io/Hackathon-Playbook/dao/
 [Discord]: https://discord.gg/gVBYGfmwQv
