@@ -54,7 +54,10 @@ Hackathon DAO's governance mechanism will revolve around 1) **hackathon grant ru
 
 ### **1. Hackathon Grant Rules**
 
-Our grant will happen on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant.  
+Our grant will happen on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant. 
+
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_002.jpeg)
+ 
 
 | Step        | Start Date  | End Date    | What will be happening                                           |
 |-------------|-------------|-------------|------------------------------------------------------------------|
@@ -65,8 +68,6 @@ Our grant will happen on a quarterly basis and each grant program will last for 
 | Review      | Mar 21 | Mar 27 | Hackathon review and project faire                                                |
 
 Currently, Hackathon DAO will focus on three main areas: Web3, Cryptography(ZK) and Quantum Computing(open-source tool and crypto crossover), and we will gradually get more topics involved if we have more credential members from more technical fields in our community. 
-
-![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_002.jpeg)
 
 ### 1.1 Hackathon Application
 
