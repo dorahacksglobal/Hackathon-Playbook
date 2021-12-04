@@ -23,7 +23,7 @@ If you want learn more about us, please visit / join / follow us on:
 
 <br>
 
-## **How to Join**
+## **Our Vision**
 
 ![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_003.jpeg)
 
@@ -37,6 +37,12 @@ Please do join us if you if you also enjoy the excitement of Hackathon and belie
 **A community can’t be driven without a shared common vision.**
 
 <br>
+
+----
+
+<br>
+
+## **How to Join**
 
 ### **➔Apply for Our Seasonal Hackathon Grant**
 

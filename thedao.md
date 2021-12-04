@@ -16,6 +16,10 @@ Financially and operationally support and liberate global hackers and hackathon 
 
 ## Why Hackathon? Why DAO?
 
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_001.jpeg)
+
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_003.jpeg)
+
 Ever since the first wave of hackathons in 2010, hackathon has undoubtedly proven its capability of boosting innovation and cooperation. 
 
 - **⚙️To Build** - We see a lot of brilliant ideas and prototypes being developed yet later grow into valuable products, companies and/or technologies in areas like cyber security contests, Internet industry, Web 3.0 applications and so on.
@@ -51,6 +55,8 @@ Hackathon DAO's governance mechanism will revolve around 1) **hackathon grant ru
 - Funds and resources will go to hackers that make true contribution.
 
 ### **1. Hackathon Grant Rules**
+
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_002.jpeg)
 
 Our grant will happen on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant.  
 
