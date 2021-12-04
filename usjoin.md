@@ -149,7 +149,9 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 
 ### **➔Join as a Hackathon Referrer**
 
-Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! If you have anyone to refer, please join 📮[this telegram group][tele] and ping @momo_hou for more details. You will get 300 USDT as refer bonus if the Hackathon successfully get >=1 vote(s) in our seasonal community grant.   
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! 
+
+If you have anyone to refer, please join 📮[this telegram group][tele] and ping @momo_hou for more details. You will get 300 USDT as refer bonus if the Hackathon successfully get >=1 vote(s) in our seasonal community grant.   
 
 <br>
 
