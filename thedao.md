@@ -16,6 +16,8 @@ Financially and operationally support and liberate global hackers and hackathon 
 
 ## Why Hackathon? Why DAO?
 
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_001.jpeg)
+
 Ever since the first wave of hackathons in 2010, hackathon has undoubtedly proven its capability of boosting innovation and cooperation. 
 
 - **⚙️To Build** - We see a lot of brilliant ideas and prototypes being developed yet later grow into valuable products, companies and/or technologies in areas like cyber security contests, Internet industry, Web 3.0 applications and so on.
@@ -52,7 +54,10 @@ Hackathon DAO's governance mechanism will revolve around 1) **hackathon grant ru
 
 ### **1. Hackathon Grant Rules**
 
-Our grant will happen on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant.  
+Our grant will happen on a quarterly basis and each grant program will last for 3 months. You can see an example timeline for the upcoming 2022Q1 grant. 
+
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_002.jpeg)
+ 
 
 | Step        | Start Date  | End Date    | What will be happening                                           |
 |-------------|-------------|-------------|------------------------------------------------------------------|
@@ -222,3 +227,17 @@ In the Hackathon DAO community, we use “Hacking Credits”(HCs) to reflect a m
 ### **2. References**
 
 1. Decentralize The Hacker Movement by @ericzhagn90
+
+### **3. Partners**
+
+**➔[4EVERLAND][4EVERLAND]** is a cloud computing platform of Web3.0 with global acceleration, privacy protection, distributed storage, and other technical features, based on IPFS and the underlying technology of Ethereum. 4EVERLAND is committed to providing a distributed, highly efficient, self-motivated, and low-cost data hosting gateway. It hopes to help the internet to make a smooth leap from Web 2.0 to Web 3.0, and become the infrastructure for millions of Web 3.0 developers and applications. 
+
+They will participate in Hackathin DAO by:
+- Supporting our DAO grant Hackathons with its Web 3.0 cloud computing and storage services.
+- Holding workshops and content to have you know Build and Deploy on Decentralized Web in-and-out.
+- Providing long-term diversified services support for Hackathon DAO recommended projects and developers.
+
+
+
+[4EVERLAND]: https://www.4everland.org/
+

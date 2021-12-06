@@ -23,34 +23,71 @@ If you want learn more about us, please visit / join / follow us on:
 
 <br>
 
-## **How to Join**
+## **Our Vision**
+
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_003.jpeg)
+
 Hackathon has undoubtedly proven its capability of boosting innovation and cooperation. Through funding Hackathons, we want to gather a group of enthusiastic hackers with great technical skills and vision and further boost the open-source community and innovations, where
 - Hackers themselves can propose and decide what are the real problems to solve.
 - Hackers can connect with and inspire each other.
 - Valuable contributions will be supported financially and operationally.
 
-Please do join us if you share the same belief with us!!!
-A community can’t be driven without a shared common vision.
+Please do join us if you if you also enjoy the excitement of Hackathon and believe in its capability of boosting creativity and communication.Hackathon DAO will make our best effort to decentralize and amplify that!!! 
+
+**A community can’t be driven without a shared common vision.**
+
+<br>
+
+----
+
+<br>
+
+## **How to Join**
 
 ### **➔Apply for Our Seasonal Hackathon Grant**
 
+![hori_a_color_bg.png](/Hackathon-Playbook/img/dao_002.jpeg)
+
 **First of all, Hackathon DAO’s grant is for Hackathon, and it’s open for everyone to apply.**
 
-Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps would be: 1) application, 2) community voting, 3) hacking, 4) grant release and 5) reviewing. 
+Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps would be: application ➔ community voting ➔ hacking ➔ grant release ➔ reviewing. 
 
-Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. Hackathons meet the following criteria are more than welcome to apply :
-- The organizer is a maintainer of an active Github repo.
-- The hackathon must have a clear and specific problem to solve instead of aimlessly exploring.
-- The hackathon must have a budget plan if the grant will be used for anything other than bonus.
-- The hackathon must happen during the indicated “Hacking” time window according to the posted agenda at the beginning of each season.
-- The organizer has passed Hackathon DAO KYC and is not on the blacklist of Hackathon DAO.
-- The hackathon needs to be organized ONLY through [HackerLink][HackerLink] platform using its bounty or hackathon feature.
-- The Hackathon proposal needs to be submitted as a BUIDL on [HackerLink][HackerLink] with all information properly filled in.
-- Hackathon DAO is currently focused on Web3, Cryptography and Quantum Computing. But Hackathons in other fields are also welcomed to apply. 
+Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. 
 
-Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. After submitting your proposal, please keep an eye on our Discord and your email to check the final result. Our staff will follow up with you for more details if you get the grant.
+If you are interested, please visit our [Website][Website] and more details can be found at the `Hackathon Grant Rules` section. Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
 
-More details, please visit our [Website][Website].
+<br>
+
+### **➔Become Our Staff**
+
+This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. Currently we have three open tracks and we are actively looking for people that would like to join and build our DAO together:) A breif introduction can be reached as below and please join 📮[this telegram group][tele] for more details.
+
+- **Hackathon Playbook** 
+	- Content Seeker 
+		- seek proper contributors and assist their posting. (50 USD per post)
+		- post self-writen content. (50 USD per post)
+	- Key Maintainer (Paid by season)
+		- updating global hackathon info.
+		- review PRs.
+		- improve website performance, capability, structure and/or styling.
+		- promote [Playbook][Playbook] to attact more visitors.
+
+- **Study Room**
+	- Content publish assistant (50 USD per post)
+		- assist our partners to generate educational content and successfully publish it in a proper format.
+		- the final published content or content link should be archived in [Playbook][Playbook].
+	- Content writer (100 USD per post)
+		- create educational content and successfully publish it in a proper format.
+		- the final published content or content link should be archived in [Playbook][Playbook].
+	- Event manager (50 USD per event)
+		- organize events like tech talk, workshop, sharing session and have more than 5 thumb up from community.
+		- generate proper follow up content like video or tech blog.
+
+- **Hackathon Grant**
+	- Hackathon organizer seekers (300 USD per hackathon)
+		- successfully find a qualified Hackathon which gets >=1 vote(s) in our seasonal grant. 
+	- Hackathon grant assistants (Paid by season)
+		- support seasonal hackathon grant.
 
 <br>
 
@@ -82,6 +119,7 @@ All hackers are more than welcome to our community and we believe you will learn
 You will have the opportunity to:
 - Get probably the most updated schedule of global hackathons.
 - Get both financially and operationally supported by participating in our granted hackathons.
+- Learn from our tutorials and mentors.
 - Communicate with global ative organizers.
 - Propose and discuss the most valuable tech problem and innovations. 
 - Participate in our activities like project demo shows and tech meetups, talks, workshops on edge-cutting and exciting tech topics.
@@ -100,7 +138,7 @@ You will have the opportunity to:
 - Participate in the formulation of our community rules and our DAO mechanism design.
 - Maintain a discussion channel for a specific hacking area.
 
-Please send an application 📧 email with a title like **[DAO staff application - name - city - focus area]** to **momo.houxy@gmail.com** with your resume if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
+Please join 📮[this telegram group][tele] if you are interested. Former experiences with Web3, cryptography and quantum Computing is preferred.
 
 <br>
 
@@ -109,8 +147,17 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 
 <br>
 
+### **➔Join as a Hackathon Referrer**
+
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! 
+
+If you have anyone to refer, please join 📮[this telegram group][tele] and ping @momo_hou for more details. You will get 300 USDT as refer bonus if the Hackathon successfully get >=1 vote(s) in our seasonal community grant.   
+
+<br>
 
 [Website]: https://dorahacksglobal.github.io/Hackathon-Playbook/dao/
 [Discord]: https://discord.gg/gVBYGfmwQv
 [Twitter]: https://twitter.com/hackathonDAO
 [HackerLink]: https://hackerlink.io/
+[Playbook]: https://dorahacksglobal.github.io/Hackathon-Playbook/
+[tele]: https://t.me/+MHLRt9ZEp3AyMDRl
