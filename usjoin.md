@@ -180,6 +180,6 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 [Playbook]: https://dorahacksglobal.github.io/Hackathon-Playbook/
 [tele]: https://t.me/+MHLRt9ZEp3AyMDRl
 [repo]: https://github.com/dorahacksglobal/Hackathon-Playbook
-[refer form]: https://forms.gle/jkjehquC9n7JY6sDA
+[refer form]: https://forms.gle/9vBrGamQk1qEdsJT8
 [staff form]: https://forms.gle/jkjehquC9n7JY6sDA
 
