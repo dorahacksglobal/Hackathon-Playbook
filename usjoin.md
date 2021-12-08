@@ -54,7 +54,7 @@ Our grant will happen on a quarterly basis and each grant program will last for 
 
 Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit [here][Website] `Hackathon Grant Rules` to find more details. 
 
-Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
+> Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
 
 
 <br>
@@ -130,7 +130,7 @@ This is one of the most important roles for us and you will have the opportunity
 	- Oversee seasonal hackathon grant, playbook and community.
 	- Key partner development.
 
-> Please take 3 mins to fill in 👉[this form][staff form]👈 to apply and/or join 👉[Discord][Discord]👈 for more details.
+> Take 3 mins to fill in 👉[this form][staff form]👈 to apply and/or join 👉[Discord][Discord]👈 for more details.
 
 <br>
 
@@ -152,7 +152,7 @@ You will have the opportunity to:
 
 Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, select **hackathon organizer** and our staff will follow up with you on more details. 
 
-> Our next grant will be opening soon. Join our [Discord][Discord] or follow our [Twitter][Twitter] to get the latest updates!!!
+> Our next grant will be happening soon. Join our [Discord][Discord] or follow our [Twitter][Twitter] to get the latest updates!!!
 
 <br>
 
