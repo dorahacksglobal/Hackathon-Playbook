@@ -106,9 +106,9 @@ This is one of the most important roles for us and you will have the opportunity
 
 - **Study Room**
     - Topic owner
-    	- Actively maintain the discussion on certain focus area on Discord.
-    	- Set up the architect of related knowledge repo on [Playbook][Playbook].
-    	- Review PR submited to the related knowledge repo on [Playbook][Playbook].
+		- Actively maintain the discussion on certain focus area on Discord.
+		- Set up the architect of related knowledge repo on [Playbook][Playbook].
+		- Review PR submited to the related knowledge repo on [Playbook][Playbook].
     - Event manager (50 USD per event)
 		- Organize events like tech talk, workshop, sharing session and have more than 5 thumb up from community.
 		- Generate proper follow up content like video or tech blog and publish on [Playbook][Playbook].
