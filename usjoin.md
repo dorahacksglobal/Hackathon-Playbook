@@ -111,7 +111,7 @@ Please take 3 mins to fill in 👉[this form][staff form]👈 to apply and/or jo
     - Event manager (50 USD per event)
 		- Organize events like tech talk, workshop, sharing session and have more than 5 thumb up from community.
 		- Generate proper follow up content like video or tech blog and publish on [Playbook][Playbook].
-	- Content publisher (50 USD per post)
+	- Content steward (50 USD per post)
 		- Assist our partners to create high-quality educational content and successfully publish it in a proper format.
 		- The final published content or content link should be archived in [Playbook][Playbook].
 
@@ -180,6 +180,6 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 [Playbook]: https://dorahacksglobal.github.io/Hackathon-Playbook/
 [tele]: https://t.me/+MHLRt9ZEp3AyMDRl
 [repo]: https://github.com/dorahacksglobal/Hackathon-Playbook
-refer form
-staff form
+[refer form]: https://forms.gle/jkjehquC9n7JY6sDA
+[staff form]: https://forms.gle/jkjehquC9n7JY6sDA
 
