@@ -90,18 +90,18 @@ If you have anything resource to share, please submit a PR to 👉[this repo][re
 
 ### **➔Become Our Staff**
 
-This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. Currently we have three open tracks and we are actively looking for people that would like to build Hackathon DAO with us. 
+This is one of the most important roles for us and you will have the opportunity to shape the vision and mechanism of our DAO at a very early stage. Currently we have four open tracks and we are actively looking for people that would like to build Hackathon DAO with us. 
 
 Please take 3 mins to fill in 👉[this form][staff form]👈 to apply and/or join 👉[Discord][Discord]👈 for more details.
 
 - **Hackathon Playbook** 
 	- Architecture
-		- Updating global hackathon info.
 		- Improve website performance, capability, structure and/or styling.
 		- Promote [Playbook][Playbook] to attact more visitors.
 	- Coordinator 
 		- Review regular Hackathon Playbook PRs except for those on Knowledge repo.
 		- Find proper contributors and assist their posting.
+		- Updating global hackathon info.
 
 - **Study Room**
     - Topic owner
@@ -122,7 +122,7 @@ Please take 3 mins to fill in 👉[this form][staff form]👈 to apply and/or jo
 	- Hold seasonal project faire.
 	- Design Hackathon Grant product
 
-- **Core Maintainer(no)**
+- **Core Maintainer**
 	- Design DAO mechanism and DAO product.
 	- DAO staff recruitting and managing.
 	- Grant and bonus release. 
