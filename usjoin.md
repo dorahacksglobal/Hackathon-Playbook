@@ -52,7 +52,7 @@ Please do join us if you if you also enjoy the excitement of Hackathon and belie
 
 Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps are: **application ➔ community voting ➔ hacking ➔ grant release ➔ reviewing.** 
 
-Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit [`here (Hackathon Grant Rules section)`][Website] to find more details. 
+Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit [🔗 here (Hackathon Grant Rules section)][Website] to find more details. 
 
 > Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
 
@@ -61,7 +61,7 @@ Each season, Hackathon DAO will hold a grant for each focus area with an indepen
 
 ### **➔Refer Hackathons to Us and Get 💰300 USDT Bonus**
 
-Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! More details can be found [`here (Hackathon Grant Rules section)`][Website].
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! More details can be found [🔗 here (Hackathon Grant Rules section)][Website].
 
 Some basic requirements for Hackathons we are looking for:
 - The organizer or the organizing team is a maintainer of an active Github repo.
