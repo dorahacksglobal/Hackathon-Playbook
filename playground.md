@@ -12,6 +12,8 @@ Here are all the areas that are activly maintained in this openbook.
 - [Upcoming Hacks][Upcoming Hacks]
 - [Toolkit][Toolkit]
 - [Hackers City Guide][Hackers City Guide]
+- [Knowledge Repo - EN][Study Room EN]
+- [知识库 - 中文][Study Room CN]
 
 > You are more than welcome to contribute by commenting or submitting a PR to [this repo][repo] if you have any suggestions or anything to add.
 
@@ -22,4 +24,6 @@ Here are all the areas that are activly maintained in this openbook.
 [Upcoming Hacks]: https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/10/27/upcoming-hacks.html
 [Toolkit]: https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/10/27/toolkits.html
 [Hackers City Guide]: https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/10/28/city-guide.html
+[Study Room EN]: https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/09/study-room-en.html
+[Study Room CN]: https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/09/study-room-cn.html
 
