@@ -78,7 +78,7 @@ You can get 💰300 USDT💰 as refer bonus if you referee successfully get >=1 
 
 ### **➔Contribute to Hackathon Playbook and Get 💰50 USDT Bonus**
 
-We believe **most of the information is already on the Internet, yet needed to be surfaced and organized to become the real knowledge.** Leveraging the power of DAO, we want to create a knowledge repo and catalog on **Web3.0**, **crypto** and **quantum computing**, and help more developers onboard these areas. (Content in English or Chinese preferred.)
+We believe **most of the information is already on the Internet, yet needed to be surfaced and organized to become the real knowledge.** Leveraging the power of DAO, we want to create a knowledge repo and catalog on **Web3.0**, **cryptography** and **quantum computing**, and help more developers onboard these areas. (Content in English or Chinese preferred.)
 
 The content we are looking for are:
 - Introduction on basic concept and mechanism 
