@@ -61,7 +61,7 @@ Each season, Hackathon DAO will hold a grant for each focus area with an indepen
 
 ### **➔Refer Hackathons to Us and Get 💰300 USDT Bonus**
 
-Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! More details can be found under `Hackathon Grant Rules` on [this page][Website].
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! More details can be found [`here (Hackathon Grant Rules section)`][Website].
 
 Some basic requirements for Hackathons we are looking for:
 - The organizer or the organizing team is a maintainer of an active Github repo.
@@ -70,7 +70,9 @@ Some basic requirements for Hackathons we are looking for:
 - The hackathon needs to be organized ONLY through HackerLink platform using its bounty or hackathon feature.
 - The hackathon must happen during the indicated "Hacking" time window according to the posted agenda at the begining of each season.
 
-> Take 3 mins to fill in 👉[**this form**][refer form]👈 to complete a refer if you have anyone in mind, and you can get 💰300 USDT💰 as refer bonus if their Hackathon successfully get >=1 vote(s) in our seasonal grant vote. 
+You can get 💰300 USDT💰 as refer bonus if you referee successfully get >=1 vote(s) in our seasonal grant vote.
+
+> Take 3 mins to fill in 👉[**this form**][refer form]👈 to complete a refer if you have anyone in mind
 
 <br>
 
@@ -87,7 +89,7 @@ The content we are looking for are:
 - Recommended reading list
 - Recommended online cources
 
-> If you have anything to share, please submit a PR to 👉[**this repo**][repo]👈 and our staff will help to review. Once the PR is merged, you will get 💰50 USDT💰 as bonus. Looking foward for your contribution!!!
+> If you have anything to share, please submit a PR to 👉[**this repo**][repo]👈 and our staff will help to review. Once you PR is merged, you will get 💰50 USDT💰 as bonus. Looking foward for your contribution!
 
 <br>
 
@@ -97,24 +99,26 @@ This is one of the most important roles for us and you will have the opportunity
 
 - **Hackathon Playbook** 
 	- Architecture
-		- Improve website performance, capability, structure and/or styling.
-		- Promote [Playbook][Playbook] to attact more visitors.
+		- Improve website performance, capability.
+		- Design website structure and/or styling.
+		- Responsible for code deploy and bug(s).
 	- Coordinator 
-		- Review regular Hackathon Playbook PRs except for those on Knowledge repo.
 		- Find proper contributors and assist their posting.
-		- Updating global hackathon info.
+		- Collect and update global hackathon info.
+		- Review regular Hackathon Playbook PRs except for those on Knowledge repo.
+		- Promote [Hackathon Playbook][Playbook] to attact more visitors.
 
 - **Study Room**
     - Topic owner
-		- Actively maintain the discussion on certain focus area on Discord.
-		- Set up the architect of related knowledge repo on [Playbook][Playbook].
-		- Review PR submited to the related knowledge repo on [Playbook][Playbook].
+		- Actively maintain the discussion on certain focus area on Discord / Telegram / Wechat.
+		- Set up the architect of certain knowledge repo on [Hackathon Playbook][Playbook].
+		- Review PR submited to the certain knowledge repo on [Hackathon Playbook][Playbook].
     - Event manager (50 USD per event)
-		- Organize events like tech talk, workshop, sharing session and have more than 5 thumb up from community.
-		- Generate proper follow up content like video or tech blog and publish on [Playbook][Playbook].
+		- Organize events like tech talk, workshop, sharing session and have more than 3 thumb up from community.
+		- Generate proper follow up content like video or tech blog and publish on [Hackathon Playbook][Playbook].
 	- Content steward (50 USD per post)
 		- Assist our partners to create high-quality educational content and successfully publish it in a proper format.
-		- The final published content or content link should be archived in [Playbook][Playbook].
+		- The final published content or content link should be archived in [Hackathon Playbook][Playbook].
 
 - **Hackathon Grant Group**
 	- Plan and execute seasonal hackathon grant.
