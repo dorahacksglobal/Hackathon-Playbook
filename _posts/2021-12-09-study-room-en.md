@@ -18,9 +18,13 @@ The content we are looking for are:
 - Recommended reading list
 - Recommended online cources
 
-> If you have anything to share, please submit a PR to 👉[**this repo**][repo]👈 and our staff will help to review. Once you PR is merged, you will get 💰50 USDT💰 as bonus. Looking foward for your contribution!
+If you have anything to share, please submit a PR to 👉[**this repo**][repo]👈 and our staff will help to review. Once you PR is merged, you will get 💰50 USDT💰 as bonus. Looking foward for your contribution!
+
+<br>
 
 ---
+
+<br>
 
 ## Web 3.0 
 
@@ -30,6 +34,8 @@ TBD
 
 ----
 
+<br>
+
 ## Cryptography 
 
 TBD
@@ -38,8 +44,12 @@ TBD
 
 ----
 
+<br>
+
 ## Quantum Computing 
 
 TBD
 
 <br>
+
+[repo]: https://github.com/dorahacksglobal/Hackathon-Playbook

@@ -18,7 +18,13 @@ categories: playground
 - 阅读清单推荐
 - 在线课程推荐
 
-> 如果你有任何中文内容想分享，请提交 PR 到👉[**这个代码仓库**][repo]👈，我们的工作人员会帮忙审核。 PR 合并后，你将获得💰50 USDT💰作为奖励。期待您的贡献！
+如果你有任何中文内容想分享，请提交 PR 到👉[**这个代码仓库**][repo]👈，我们的工作人员会帮忙审核。 PR 合并后，你将获得💰50 USDT💰作为奖励。期待您的贡献！
+
+<br>
+
+---
+
+<br>
 
 ## Web 3.0 
 
@@ -28,6 +34,8 @@ TBD
 
 ----
 
+<br>
+
 ## 密码学
 
 TBD
@@ -36,8 +44,13 @@ TBD
 
 ----
 
+<br>
+
 ## 量子计算
 
 TBD
 
 <br>
+
+
+[repo]: https://github.com/dorahacksglobal/Hackathon-Playbook
