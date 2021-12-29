@@ -9,7 +9,7 @@ categories: playground
 
 ![hori_a_color_bg.png](/Hackathon-Playbook/img/grant22s1.png)
 
-## Theme - Open Source Communities
+## Hackathon DAO Grant-1 2022 - Open Source Communities
 
 👉[**Grant details and application entry**](https://hackerlink.io/grant/34/)👈
 
@@ -26,18 +26,18 @@ The prize allocation will be decided by Hackathon DAO members and contributors u
 | Grant Release | 2022/03/28 - 2022/03/31 |  |
 
 
-### Application Guide
+### **Application Guide**
 
 ### **➔Steps**
-1. Visit [**grant page**](https://hackerlink.io/grant/34/) and signup / login with your GitHub or Email by clicking the button on the right corner.
+1. Visit [**🔗grant page**](https://hackerlink.io/grant/34/) and signup / login with your GitHub or Email by clicking the button on the right corner.
 2. Click “**Apply Grant**” and connect your wallet.
 3. Create a BUIDL
-    - If you want to use existing BUIDL to apply, select with the drop down box. 
+    - If you want to use existing BUIDL to apply, please select with the drop down box. 
     - If you’re new to Hackerlink, please click “**Create a new BUIDL to apply for grant**”, and fill in the form to offer the information of your project.
 4. Submit a BUIDL
-    - Once you’ve filled out everything, click on “Submit”. You will need a small amount of MATIC as gas fee, please make sure you have some MATIC in your wallet, otherwise your project cannot be submitted successfully.
+    - Once you’ve filled out everything, click on “**Submit**”. You will need a small amount of MATIC as gas fee, please make sure you have some MATIC in your wallet, otherwise your project cannot be submitted successfully.
     - You can use [Polygon gas token swap](https://wallet.polygon.technology/gas-swap) which is a gas-less transaction provided by Polygon wallet.
-5. Join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Need BUILD review**” in **#🌍grant-ss21** channel and our DAO committee will help to review your application. 
+5. Join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Need BUILD review + your BUIDL name**” in **#🌍grant-ss21** channel and our DAO committee will help to review your application. 
 
 > If you have any questions, please join our [Discord](https://discord.gg/gVBYGfmwQv) for detailed instructions, promote your project and/or get further updates. 
 
@@ -57,10 +57,13 @@ Your application BUIDL will be reviewed by our DAO committee to make sure the ap
 
 ### **➔Refer Projects to Us and Get 💰300 USDT Bonus**
 
-If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this form**][https://forms.gle/9vBrGamQk1qEdsJT8]👈 to complete a referral. You can get 💰300 USDT💰 as refer bonus if you referee successfully submits a BUIDL to this grant, gets >=1 vote(s) in our seasonal grant vote and passes the grace period. 
+If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰300 USDT💰 as refer bonus if you referee successfully submits a BUIDL to this grant, gets >=1 vote(s) in our seasonal grant vote and passes the grace period. 
 
+After filling [the referral form](https://forms.gle/yBu3nJ9kCwAy7ayG8). Join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in #🌍grant-ss21 and our DAO staff will follow up with you.
 
-## About Hackathon DAO
+<br>
+
+### About Hackathon DAO
 
 ![hori_a_color_bg.png](/Hackathon-Playbook/img/logo_pink.png)
 
@@ -86,7 +89,7 @@ If you want learn more about us, please visit / join / follow us on
 
 <br>
 
-## 赛季主题 - 开源社区
+## Hackathon DAO Grant-1 2022 - 开源社区
 
 👉[**活动详情 & 报名入口**](https://hackerlink.io/grant/34/)👈
 
@@ -103,10 +106,10 @@ If you want learn more about us, please visit / join / follow us on
 | 奖金发放 | 2022/03/28 - 2022/03/31 |  |
 
 
-## 申请指南
+## **申请指南**
 
 ### **➔申请步骤**
-1. 访问 [grant 页面](https://hackerlink.io/grant/34/)，然后点击页面右上角的按钮注册/登录；
+1. 访问 [🔗grant 页面](https://hackerlink.io/grant/34/)，然后点击页面右上角的按钮注册/登录；
 2. 点击申请资助 “**参与 Grant**”, 并链接你的钱包;
 3. 创建 BUIDL
     - 如果你想要使用过往 BUIDL 进行申请，通过下拉框选择相应的项目；
@@ -114,7 +117,7 @@ If you want learn more about us, please visit / join / follow us on
 4. 提交 BUIDL
     - 填写完所有内容后，单击“提交”。您将需要少量的 MATIC 作为 gas 费，请确保您的钱包中有一些 MATIC，否则您的项目将无法成功提交；
     - 如果需要 gas 费，你可以使用 [Polygon 钱包提供的免交易费服务](https://wallet.polygon.technology/gas-swap) 换取少量 MATIC；
-5. Join our [Discord](https://discord.gg/gVBYGfmwQv), 在 **#🌍grant-ss21** 频道发送 “**Need BUILD review**”，然后我们的 DAO 委员会会尽快开始审核您的申请。通过审核之后，你的项目就会展示在 Hackathon DAO Grant 2022 S1 页面上，可供大家投票了；
+5. Join our [Discord](https://discord.gg/gVBYGfmwQv), 在 **#🌍grant-ss21** 频道发送 “**Need BUILD review + 你的项目名称**”，然后我们的 DAO 委员会会尽快开始审核您的申请。通过审核之后，你的项目就会展示在 Hackathon DAO Grant 2022 S1 页面上，可供大家投票了；
 
 > 有任何疑问也请加入我们的 [Discord](https://discord.gg/gVBYGfmwQv) 以获取详细说明、推广您的项目和/或获取进一步更新。
 
@@ -134,10 +137,13 @@ Hackathon DAO 委员会将通过 BUIDL 页面上的信息来审核申请社区�
 
 ### **➔推荐项目给我们获得💰300 USDT 推荐奖**
 
-如果您认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此表格**][https://forms.gle/9vBrGamQk1qEdsJT8]👈 以来推荐他们参与本次 grant。如果你推荐的项目成功提交 BUIDL，在我们的赠款投票中成功获得 >=1 票并通过宽限期，您可以获得💰300 USDT💰作为推荐奖金。
+如果您认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。如果你推荐的项目成功提交 BUIDL，在我们的赠款投票中成功获得 >=1 票并通过宽限期，您可以获得💰300 USDT💰作为推荐奖金。
 
+完成填写[推荐表](https://forms.gle/yBu3nJ9kCwAy7ayG8)后。加入我们的 [Discord](https://discord.gg/gVBYGfmwQv)，在 #🌍grant-ss21 频道中发送“**推荐+您的姓名+您推荐的项目**”，我们的 DAO 工作人员将与您联系。
 
-## 关于 Hackathon DAO
+<br>
+
+### 关于 Hackathon DAO
 
 ![hori_a_color_bg.png](/Hackathon-Playbook/img/logo_pink.png)
 
