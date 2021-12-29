@@ -57,7 +57,10 @@ Your application BUIDL will be reviewed by our DAO committee to make sure the ap
 
 ### **➔Refer Projects to Us and Get 💰300 USDT Bonus**
 
-If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee successfully submits a BUIDL to this grant, gets >=1 vote(s) in our seasonal grant vote and passes the grace period. 
+If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee:
+- successfully submits a BUIDL to this grant
+- gets >=1 vote(s) in our seasonal grant vote 
+- passes the grace period. 
 
 After filling the form, join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in #🌍grant-ss21 and our DAO staff will follow up with you.
 
