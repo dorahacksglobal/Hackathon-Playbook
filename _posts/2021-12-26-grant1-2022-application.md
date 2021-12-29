@@ -19,11 +19,12 @@ The prize allocation will be decided by Hackathon DAO members and contributors u
 
 | Agenda | Date | Details |
 | --- | --- | --- |
-| Application | 2022/12/26 - 2022/02/21 | Submit your applications so that your application can be reviewed by the DAO committee before it goes public. [Application guide](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)   |
+| Application | 2022/12/26 - 2022/02/21 | Submit your applications so that your application can be reviewed by the DAO committee before it goes public. [**Application guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)   |
 | Vote | 2022/12/26 - 2022/03/21 | DAO token holders vote based on their preference. [**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) |
 | Hacking | 2022/12/26 - 2022/03/21 | Working on your deliverables and update your progress.  |
 | Grace Period | 2022/03/21 - 2022/03/27 | Review on deliverables status. You projects will be reviewed based on the milestone on your BUIDL page on 2022-03-21. |
 | Grant Release | 2022/03/28 - 2022/03/31 |  |
+
 
 
 ### **Application Guide**
