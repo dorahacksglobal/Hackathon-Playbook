@@ -57,9 +57,9 @@ Your application BUIDL will be reviewed by our DAO committee to make sure the ap
 
 ### **➔Refer Projects to Us and Get 💰300 USDT Bonus**
 
-If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰300 USDT💰 as refer bonus if you referee successfully submits a BUIDL to this grant, gets >=1 vote(s) in our seasonal grant vote and passes the grace period. 
+If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee successfully submits a BUIDL to this grant, gets >=1 vote(s) in our seasonal grant vote and passes the grace period. 
 
-After filling [the referral form](https://forms.gle/yBu3nJ9kCwAy7ayG8). Join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in #🌍grant-ss21 and our DAO staff will follow up with you.
+After filling the form, join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in #🌍grant-ss21 and our DAO staff will follow up with you.
 
 <br>
 
@@ -137,9 +137,9 @@ Hackathon DAO 委员会将通过 BUIDL 页面上的信息来审核申请社区�
 
 ### **➔推荐项目给我们获得💰300 USDT 推荐奖**
 
-如果您认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。如果你推荐的项目成功提交 BUIDL，在我们的赠款投票中成功获得 >=1 票并通过宽限期，您可以获得💰300 USDT💰作为推荐奖金。
+如果您认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此推荐表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。如果你推荐的项目成功提交 BUIDL，在我们的赠款投票中成功获得 >=1 票并通过宽限期，您可以获得💰**300 USDT**💰作为推荐奖金。
 
-完成填写[推荐表](https://forms.gle/yBu3nJ9kCwAy7ayG8)后。加入我们的 [Discord](https://discord.gg/gVBYGfmwQv)，在 #🌍grant-ss21 频道中发送“**推荐+您的姓名+您推荐的项目**”，我们的 DAO 工作人员将与您联系。
+完成填写推荐表之后，加入我们的 [Discord](https://discord.gg/gVBYGfmwQv)，在 #🌍grant-ss21 频道中发送“**推荐+您的姓名+您推荐的项目**”，我们的 DAO 工作人员将与您联系。
 
 <br>
 
