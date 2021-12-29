@@ -19,8 +19,8 @@ The prize allocation will be decided by Hackathon DAO members and contributors u
 
 | Agenda | Date | Details |
 | --- | --- | --- |
-| Application | 2022/12/26 - 2022/02/21 | Submit your applications so that your application can be reviewed by the DAO committee before it goes public.    |
-| Vote | 2022/12/26 - 2022/03/21 | DAO token holders vote based on their preference.  |
+| Application | 2022/12/26 - 2022/02/21 | Submit your applications so that your application can be reviewed by the DAO committee before it goes public. [Application guide](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)   |
+| Vote | 2022/12/26 - 2022/03/21 | DAO token holders vote based on their preference. [**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) |
 | Hacking | 2022/12/26 - 2022/03/21 | Working on your deliverables and update your progress.  |
 | Grace Period | 2022/03/21 - 2022/03/27 | Review on deliverables status. You projects will be reviewed based on the milestone on your BUIDL page on 2022-03-21. |
 | Grant Release | 2022/03/28 - 2022/03/31 |  |
@@ -60,7 +60,7 @@ Your application BUIDL will be reviewed by our DAO committee to make sure the ap
 If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee:
 - successfully submits a BUIDL to this grant
 - gets >=1 vote(s) in our seasonal grant vote 
-- passes the grace period. 
+- passes the grace period
 
 After filling the form, join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in #🌍grant-ss21 and our DAO staff will follow up with you.
 
@@ -102,8 +102,8 @@ If you want learn more about us, please visit / join / follow us on
 
 | 日程 | 日期 | 详情 |
 | --- | --- | --- |
-| 申请 | 2022/12/26 - 2022/01/14 | 提交申请材料，所以DAO 委员可以在发布之前进行审核。 |
-| 投票 | 2022/12/26 - 2022/03/21 | DAO 代币持有者会根据他们的偏好进行投票。 |
+| 申请 | 2022/12/26 - 2022/01/14 | 提交申请材料，所以DAO 委员可以在发布之前进行审核。[**申请指南**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html) |
+| 投票 | 2022/12/26 - 2022/03/21 | DAO 代币持有者会根据他们的偏好进行投票。[**投票指南**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) |
 | Hacking | 2022/12/26 - 2022/03/21 | 完成可交付的成果并进行进度更新。 |
 | 宽限期 | 2022/03/21 - 2022/03/27 | 查看可交付成果的状态。项目将根据 2022 年 3 月 21 日 BUIDL 页面上的里程碑进行审核。 |
 | 奖金发放 | 2022/03/28 - 2022/03/31 |  |
@@ -140,7 +140,10 @@ Hackathon DAO 委员会将通过 BUIDL 页面上的信息来审核申请社区�
 
 ### **➔推荐项目给我们获得💰300 USDT 推荐奖**
 
-如果您认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此推荐表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。如果你推荐的项目成功提交 BUIDL，在我们的赠款投票中成功获得 >=1 票并通过宽限期，您可以获得💰**300 USDT**💰作为推荐奖金。
+如果你认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此推荐表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。Hackathon DAO 将提供给你💰**300 USDT**💰作为推荐奖金，如果你推荐的项目
+- 成功提交 BUIDL 到本次 grant
+- 在我们的赠款投票中成功获得 >=1 票
+- 通过宽限期
 
 完成填写推荐表之后，加入我们的 [Discord](https://discord.gg/gVBYGfmwQv)，在 #🌍grant-ss21 频道中发送“**推荐+您的姓名+您推荐的项目**”，我们的 DAO 工作人员将与您联系。
 
