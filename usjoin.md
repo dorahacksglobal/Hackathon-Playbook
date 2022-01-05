@@ -55,12 +55,10 @@ Our grant will happen on a quarterly basis and each grant program will last for 
 
 Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. 
 
-> **Hackathon DAO grant-1 2022** is openning now!!! 
-> 👉🏻[**Grant details and application entry**](https://hackerlink.io/grant/34/)
-> 👉🏻[**Application guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)
-> 👉🏻[**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) 
 
-
+📢[**Hackathon DAO grant-1 2022**](https://hackerlink.io/grant/34/) is openning now!!! 
+- [**Application guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)
+- [**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) 
 
 <br>
 
@@ -68,7 +66,7 @@ Each season, Hackathon DAO will hold a grant for each focus area with an indepen
 
 Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! You can get 💰300 USDT💰 as refer bonus if you referee successfully get >=1 vote(s) in our seasonal grant vote.
 
-[**Hackathon DAO grant-1 2022**](https://hackerlink.io/grant/34/) is openning now!!! Before 2022-02-21, if you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/VZuD4JQAWo8Vjg8U6)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee 
+📢[**Hackathon DAO grant-1 2022**](https://hackerlink.io/grant/34/) is openning now!!! Before 2022-02-21, if you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/VZuD4JQAWo8Vjg8U6)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee 
 - successfully submits a BUIDL to this grant
 - gets >=1 vote(s) in our seasonal grant vote 
 - passes the grace period
@@ -147,13 +145,13 @@ This is one of the most important roles for us and you will have the opportunity
 ## **Roles to Join**
 
 ### **➔Join as a Community**
-Hackathon organizers would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
+Developer community organizers and repo maintainners would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
 
 You will have the opportunity to:
-- Get both financially and operationally support for your hackathons through our seasonal grant program.
-- Communicate with global active hackathon organizers and hackers and demonstrate your projects.
+- Get both financially and operationally support for your community/repo through our seasonal grant program.
+- Communicate with global active community organizers and hackers and demonstrate your projects.
 - Propose and discuss the most valuable tech problem and innovations. 
-- Discuss, design and develop tools for better hackathon experience.
+- Discuss, design and develop tools for better hacking experience.
 - Share your experiences and knowledge about hackathons and become the co-author of our openbook if you want to.
 
 Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, select **hackathon organizer** and our staff will follow up with you on more details. 
@@ -165,9 +163,9 @@ All hackers are more than welcome to our community and we believe you will learn
 
 You will have the opportunity to:
 - Get probably the most updated schedule of global hackathons.
-- Get both financially and operationally supported by participating in our granted hackathons.
+- Get both financially and operationally supported by participating in our granted hackathons and bounties.
 - Learn from our tutorials and mentors.
-- Communicate with global ative organizers.
+- Communicate with global ative hackers.
 - Propose and discuss the most valuable tech problem and innovations. 
 - Participate in our activities like project demo shows and tech meetups, talks, workshops on edge-cutting and exciting tech topics.
 
