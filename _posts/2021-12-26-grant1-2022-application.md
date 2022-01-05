@@ -58,7 +58,7 @@ Your application BUIDL will be reviewed by our DAO committee to make sure the ap
 
 ### **➔Refer Projects to Us and Get 💰300 USDT Bonus**
 
-If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee:
+If you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/VZuD4JQAWo8Vjg8U6)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee:
 - successfully submits a BUIDL to this grant
 - gets >=1 vote(s) in our seasonal grant vote 
 - passes the grace period
@@ -141,7 +141,7 @@ Hackathon DAO 委员会将通过 BUIDL 页面上的信息来审核申请社区�
 
 ### **➔推荐项目给我们获得💰300 USDT 推荐奖**
 
-如果你认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此推荐表格**](https://forms.gle/yBu3nJ9kCwAy7ayG8)👈 以来推荐他们参与本次 grant。Hackathon DAO 将提供给你💰**300 USDT**💰作为推荐奖金，如果你推荐的项目
+如果你认识任何可能适合我们本季资助的社区或个人，请花 3 分钟填写 👉[**此推荐表格**](https://forms.gle/VZuD4JQAWo8Vjg8U6)👈 以来推荐他们参与本次 grant。Hackathon DAO 将提供给你💰**300 USDT**💰作为推荐奖金，如果你推荐的项目
 - 成功提交 BUIDL 到本次 grant
 - 在我们的赠款投票中成功获得 >=1 票
 - 通过宽限期
