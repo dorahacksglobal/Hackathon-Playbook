@@ -14,10 +14,9 @@ To financially and operationally support and liberate global hackers and hackath
 - Organize an online community of top hackers and hackathon organizers to actively discuss the (most) valuable tech problems and innovations.
 
 If you want learn more about us, please visit / join / follow us on:
-<br> 🔗 [Website][Website] 
-<br> 🔗 [Discord][Discord]
-<br> 🔗 [Twitter][Twitter] 
+<br> 🔗 [Website][Website] | 🔗 [Discord][Discord] | 🔗 [Twitter][Twitter] | 🔗 [Telegram][tele] 
 
+<br>
 
 ----
 
@@ -52,27 +51,27 @@ Please do join us if you if you also enjoy the excitement of Hackathon and belie
 
 Our grant will happen on a quarterly basis and each grant program will last for 3 months. An agenda will be published ahead of the beginning of each season and simplified steps are: **application ➔ community voting ➔ hacking ➔ grant release ➔ reviewing.** 
 
-Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. If you are interested, please visit [🔗 here (Hackathon Grant Rules section)][Website] to find more details. 
+Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. 
 
-> Our next grant will be happening soon, please follow our 👉[Twitter][Twitter]👈 or join our 👉[Discord][Discord]👈 to get the latest updates. 
 
+📢**Hackathon DAO grant-1 2022** is openning now!!! 
+- [**Application entry**](https://hackerlink.io/grant/34/)
+- [**Application guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)
+- [**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) 
 
 <br>
 
 ### **➔Refer Hackathons to Us and Get 💰300 USDT Bonus**
 
-Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! More details can be found [🔗 here (Hackathon Grant Rules section)][Website].
+Hackathon DAO is actively looking for repos and developers that would like to make technical improvements and solve meaningful problems, and we are more than ready to help!!! You can get 💰300 USDT💰 as refer bonus if you referee successfully get >=1 vote(s) in our seasonal grant vote.
 
-Some basic requirements for Hackathons we are looking for:
-- The organizer or the organizing team is a maintainer of an active Github repo.
-- The hackathon must have a clear and specific problem to solve instead of aimlessly exploring.
-- The hackathon must have a budget plan if the grant will be used for anything other than bonus.
-- The hackathon needs to be organized ONLY through HackerLink platform using its bounty or hackathon feature.
-- The hackathon must happen during the indicated "Hacking" time window according to the posted agenda at the begining of each season.
+📢[**Hackathon DAO grant-1 2022**](https://hackerlink.io/grant/34/) is openning now!!! Before 2022-02-21, if you know any community or person that might fit our grant this season, please take 3 mins to fill in 👉[**this referral form**](https://forms.gle/VZuD4JQAWo8Vjg8U6)👈 to complete a referral. You can get 💰**300 USDT**💰 as refer bonus if you referee 
+- successfully submits a BUIDL to this grant
+- gets >=1 vote(s) in our seasonal grant vote 
+- passes the grace period
 
-You can get 💰300 USDT💰 as refer bonus if you referee successfully get >=1 vote(s) in our seasonal grant vote.
+After filling the form, join our [Discord](https://discord.gg/gVBYGfmwQv), send “**Referral + your name + the project you refer**” in **#🌍grant-ss21** and our DAO staff will follow up with you.
 
-> Take 3 mins to fill in 👉[**this form**][refer form]👈 to complete a refer if you have anyone in mind
 
 <br>
 
@@ -144,19 +143,17 @@ This is one of the most important roles for us and you will have the opportunity
 
 ## **Roles to Join**
 
-### **➔Join as a Hackathon Organizer**
-Hackathon organizers would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
+### **➔Join as a Community**
+Developer community organizers and repo maintainners would be the core of our community. Except for those already with hackathon managing experiences, we explicitly want to call for open-source repo maintainers as we believe hackathon and Hackathon DAO would be a great way to boost and promote your repos.
 
 You will have the opportunity to:
-- Get both financially and operationally support for your hackathons through our seasonal grant program.
-- Communicate with global active hackathon organizers and hackers and demonstrate your projects.
+- Get both financially and operationally support for your community/repo through our seasonal grant program.
+- Communicate with global active community organizers and hackers and demonstrate your projects.
 - Propose and discuss the most valuable tech problem and innovations. 
-- Discuss, design and develop tools for better hackathon experience.
+- Discuss, design and develop tools for better hacking experience.
 - Share your experiences and knowledge about hackathons and become the co-author of our openbook if you want to.
 
 Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, select **hackathon organizer** and our staff will follow up with you on more details. 
-
-> Our next grant will be happening soon. Join our [Discord][Discord] or follow our [Twitter][Twitter] to get the latest updates!!!
 
 <br>
 
@@ -165,9 +162,9 @@ All hackers are more than welcome to our community and we believe you will learn
 
 You will have the opportunity to:
 - Get probably the most updated schedule of global hackathons.
-- Get both financially and operationally supported by participating in our granted hackathons.
+- Get both financially and operationally supported by participating in our granted hackathons and bounties.
 - Learn from our tutorials and mentors.
-- Communicate with global ative organizers.
+- Communicate with global ative hackers.
 - Propose and discuss the most valuable tech problem and innovations. 
 - Participate in our activities like project demo shows and tech meetups, talks, workshops on edge-cutting and exciting tech topics.
 
@@ -176,7 +173,7 @@ Join our 👉[Discord][Discord]👈. Go to the **#select-your-role** channel, se
 <br>
 
 ### **➔Join as a Partner**
-Hackathon DAO is not open for funding at the moment. However, if your platform / company / team is looking for something ineteresting in Web 3.0, Cryptography and Quantum Computing. Please do connect with us through our [Discord][Discord] or our [Twitter][Twitter] or send an 📧 email to **momo.houxy@gmail.com**. 
+Hackathon DAO is not open for funding at the moment. However, if your platform / company / team is looking for something ineteresting in Web 3.0, Cryptography and Quantum Computing. Please do connect with us through our [Discord][Discord] or our [Twitter][Twitter] or send an 📧 email to **momo@dorahacks.com**. 
 
 
 <br>
@@ -188,6 +185,4 @@ Hackathon DAO is not open for funding at the moment. However, if your platform /
 [Playbook]: https://dorahacksglobal.github.io/Hackathon-Playbook/
 [tele]: https://t.me/+MHLRt9ZEp3AyMDRl
 [repo]: https://github.com/dorahacksglobal/Hackathon-Playbook
-[refer form]: https://forms.gle/9vBrGamQk1qEdsJT8
 [staff form]: https://forms.gle/jkjehquC9n7JY6sDA
-
