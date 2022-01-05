@@ -54,7 +54,8 @@ Our grant will happen on a quarterly basis and each grant program will last for 
 Each season, Hackathon DAO will hold a grant for each focus area with an independent funding pool. After the application deadline, our voting token holders will decide which proposals to support using anonymous quadratic voting. 
 
 
-📢[**Hackathon DAO grant-1 2022**](https://hackerlink.io/grant/34/) is openning now!!! 
+📢**Hackathon DAO grant-1 2022** is openning now!!! 
+- [**Application entry**](https://hackerlink.io/grant/34/)
 - [**Application guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-application.html)
 - [**Voting guide**](https://dorahacksglobal.github.io/Hackathon-Playbook/playground/2021/12/26/grant1-2022-voting.html) 
 
