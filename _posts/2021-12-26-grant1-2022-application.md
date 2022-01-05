@@ -87,6 +87,8 @@ If you want learn more about us, please visit / join / follow us on
 
 🔗 [Twitter](https://twitter.com/hackathonDAO)
 
+🔗 [Telegram](https://t.me/+MHLRt9ZEp3AyMDRl)
+
 <br>
 
 ---
@@ -167,3 +169,6 @@ Hackathon DAO 是一个去中心化的社区，原想是支持所有有意义的
 🔗 [Discord](https://discord.gg/gVBYGfmwQv)
 
 🔗 [Twitter](https://twitter.com/hackathonDAO)
+
+🔗 [Telegram](https://t.me/+MHLRt9ZEp3AyMDRl)
+
