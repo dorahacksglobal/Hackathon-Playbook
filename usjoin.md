@@ -14,11 +14,9 @@ To financially and operationally support and liberate global hackers and hackath
 - Organize an online community of top hackers and hackathon organizers to actively discuss the (most) valuable tech problems and innovations.
 
 If you want learn more about us, please visit / join / follow us on:
-<br> 🔗 [Website][Website] 
-<br> 🔗 [Discord][Discord]
-<br> 🔗 [Twitter][Twitter] 
-<br> 🔗 [Telegram][tele] 
+<br> 🔗 [Website][Website] | 🔗 [Discord][Discord] | 🔗 [Twitter][Twitter] | 🔗 [Telegram][tele] 
 
+<br>
 
 ----
 
